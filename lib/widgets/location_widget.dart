@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 class LocationWidget extends StatelessWidget {
   const LocationWidget({
     super.key,
@@ -19,7 +20,7 @@ class LocationWidget extends StatelessWidget {
           width: 10,
         ),
         Text(
-          "19/1 Makham Makham Chantuburi 22150",
+          "99/99 Dubai hungry for bananas 999",
           style: TextStyle(
             fontFamily: 'Poppins',
             fontSize: 18,

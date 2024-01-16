@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 class AvatarWidget extends StatelessWidget {
   const AvatarWidget({
     super.key,
@@ -10,7 +11,7 @@ class AvatarWidget extends StatelessWidget {
       backgroundColor: Colors.green,
       radius: 60.0,
       child: CircleAvatar(
-        backgroundImage: AssetImage('assets/images/aiony-haust-3TLl_97HNJo-unsplash.jpg'),
+        backgroundImage: AssetImage('assets/images/download.jpg'),
         radius: 55.0,
       ),
     );

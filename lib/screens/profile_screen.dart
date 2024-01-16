@@ -88,7 +88,7 @@ class ProfileScreen extends StatelessWidget {
                     height: 150,
                     color: Colors.red,
                     child: Image.network(
-                        'https://i.pinimg.com/736x/30/71/db/3071dbf69d04243bf8a14f707a5e9200.jpg')),
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23DIRmynDsLwFHbyTM-3IXViXWxwUdTX6Rw&usqp=CAU')),
                 SizedBox(
                   height: 20,
                 ),
@@ -97,7 +97,7 @@ class ProfileScreen extends StatelessWidget {
                     height: 150,
                     color: Colors.red,
                     child: Image.network(
-                        'https://i.pinimg.com/564x/6c/ad/e5/6cade571a2890a5667c04e6220543a5f.jpg')),
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23DIRmynDsLwFHbyTM-3IXViXWxwUdTX6Rw&usqp=CAU')),
               ],
             ),
             Column(
@@ -108,7 +108,7 @@ class ProfileScreen extends StatelessWidget {
                     height: 150,
                     color: Colors.red,
                     child: Image.network(
-                        'https://i.pinimg.com/736x/30/71/db/3071dbf69d04243bf8a14f707a5e9200.jpg')),
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSe4AADVHX_oh0ArdoO2BiXDn6nKTPjZekg&usqp=CAU')),
                 SizedBox(
                   height: 20,
                 ),
@@ -117,7 +117,7 @@ class ProfileScreen extends StatelessWidget {
                     height: 150,
                     color: Colors.red,
                     child: Image.network(
-                        'https://i.pinimg.com/564x/6c/ad/e5/6cade571a2890a5667c04e6220543a5f.jpg')),
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSe4AADVHX_oh0ArdoO2BiXDn6nKTPjZekg&usqp=CAU')),
               ],
             ),
           ],
